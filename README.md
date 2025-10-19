@@ -288,3 +288,6 @@ This project delivers a secure, scalable, and intelligent chatbot designed speci
 </body>
 </html>
 ```
+
+<img width="1900" height="1141" alt="image" src="https://github.com/user-attachments/assets/c76b2418-2082-4aa1-b715-f642aa4f41c8" />
+
